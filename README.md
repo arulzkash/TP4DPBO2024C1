@@ -5,7 +5,7 @@ Saya Imam Chalish Rafidhul Haque NIM 2207260 mengerjakan soal Tugas Praktikum 4 
 **README**
 
 **Deskripsi Program**
-Program ini adalah sebuah aplikasi manajemen transaksi untuk sebuah bisnis dan manajemen membership. Aplikasi ini memungkinkan pengguna untuk menambahkan data transaksi, melihat daftar transaksi, mengedit status pembayaran, menghapus transaksi menambah, menghapus member dan bisa tracking jumlah check in member.
+Program ini adalah sebuah aplikasi manajemen transaksi untuk sebuah bisnis dan manajemen membership. Aplikasi ini memungkinkan pengguna untuk menambahkan data transaksi, melihat daftar transaksi, mengedit status pembayaran, menghapus transaksi, menambah, menghapus member dan bisa tracking jumlah check in member.
 
 **Alur Program**
 1. **Index.php**
